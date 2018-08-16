@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title_tabs">
+        <item>Mês</item>
+        <item>Histórico</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#DD0000</color>
+    <color name="colorPrimaryDark">#940000</color>
+    <color name="colorAccent">#ED7573</color>
+
+    <color name="colorOpenMonth">#e28000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="blue.I">#5555ff</color>
+
+    <color name="receives_color">#90e3e7</color>
+    <color name="receives_color_dark_margin">#37b9dc</color>
+    <color name="receives_color_dark">#16424e</color>
+
+    <color name="costs_color">#FFD982</color>
+    <color name="costs_color_dark">#795506</color>
+    <color name="costs_color_future">#FDE8B1</color>
+
+    <color name="gray.I">#dfdfdf</color>
+    <color name="gray.III">#9a9a9a</color>
+    <color name="orange.I">#ff4511</color>
+
+</resources>

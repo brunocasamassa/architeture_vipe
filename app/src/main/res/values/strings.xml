@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PFM</string>
+
+    <string name="month_open_tag">MÊS ABERTO</string>
+    <string name="month_closed_tag">MÊS FECHADO</string>
+
+    <string name="toggle_income">Recebimentos</string>
+    <string name="toggle_spend">Gastos</string>
+
+    <string name="placeholder_label">Label</string>
+    <string name="placeholder_value">R$ X.XXX,XX</string>
+
+    <string name="title_results">Resultados</string>
+    <string name="title_receipts">Recebimentos</string>
+    <string name="title_spending">Gastos</string>
+
+    <string name="id_results">1</string>
+    <string name="id_receipts">2</string>
+    <string name="id_spending">3</string>
+
+    //COLLUM CHART
+    <string name="extras_collum_receives_chart">Você Costuma Receber</string>
+    <string name="realized_collum_receives_chart">Já Recebidos</string>
+
+    <string name="extras_collum_costs_chart">Você Costuma Gastar</string>
+    <string name="realized_scheduled_collum_costs_chart">Gastos Agendados</string>
+    <string name="realized_actual_collum_costs_chart">Já Gastos</string>
+    <string name="app_title">Controle Financeiro</string>
+
+
+</resources>
